@@ -1,4 +1,21 @@
 ## 前言
+### 相关内容
+
+原型图：
+https://modao.cc/app/TPtk2jucr50zb1jZNdPHvr
+
+石墨文档规划：
+https://shimo.im/space/erAdP5Y2jvUD6dAG
+
+开源项目地址：
+https://github.com/anji-plus/report
+
+开源项目预览地址：
+https://report.anji-plus.com/index.html#/report/bigscreen
+
+甲方原设计图：
+./工业云平台-界面 (1).doc
+
 ### 说明
 项目方案需需求方进一步协调沟通，以下只是根据现有信息做出的初步规划
 
